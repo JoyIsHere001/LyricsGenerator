@@ -30,19 +30,19 @@
 
 **Private methods** :
 
-- addPartToSong(const vector<string>& part): Adds verses or choruses to the full song.
+- **addPartToSong(const vector<string>& part)**: Adds verses or choruses to the full song.
 
-- printAnimated(const string &text, int delayMs): Prints each line with animated delay.
+- **printAnimated(const string &text, int delayMs)**: Prints each line with animated delay.
 
 **Public methods**:
 
--  generateSong(): Plays the full song in the console.
+-  **generateSong()**: Plays the full song in the console.
 
 **main() function**:
 
 - Instantiates the SongGenerator object.
 
-- Calls generateSong() to display the song.
+- Calls **generateSong()** to display the song.
 
 ## 📥 How to Clone the Project (via GitHub Desktop):
 
