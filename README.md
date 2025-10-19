@@ -22,23 +22,23 @@
 
 ### Project Structure:
 
-**SongGenerator**  class:
+i. **SongGenerator**  class:
 
 - Handles all song-related data and operations.
 
 - Private member fullSong stores the combined lyrics.
 
-**Private methods** :
+ii. **Private methods** :
 
 - **addPartToSong(const vector<string>& part)**: Adds verses or choruses to the full song.
 
 - **printAnimated(const string &text, int delayMs)**: Prints each line with animated delay.
 
-**Public methods**:
+iii. **Public methods**:
 
 -  **generateSong()**: Plays the full song in the console.
 
-**main() function**:
+iv. **main() function**:
 
 - Instantiates the SongGenerator object.
 
