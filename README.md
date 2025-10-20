@@ -49,7 +49,7 @@ iv. **main() function**:
 1. Open **GitHub Desktop**  
 2. Click **“Current repository” → "Add" → “Clone Repository…”**  
 3. In the **URL tab**, paste the repo link:
-https://github.com/JoyIsHere001/LyricsGenerator\src 
+https://github.com/JoyIsHere001/LyricsGenerator
 4. Choose a local path (e.g. `Documents\GitHub`)  
 5. Click **Clone** ✅  
 6. Navigate to the folder:
