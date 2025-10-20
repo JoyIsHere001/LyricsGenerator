@@ -56,7 +56,7 @@ https://github.com/JoyIsHere001/LyricsGenerator
 [cloned repo]/project folder/src
 
 
-### Compile the program using gcc:
+### Compile the program:
 
 g++ -std=c++11 -o SongGenerator SongGenerator.cpp
 
